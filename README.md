@@ -9,5 +9,5 @@ Users should be able to:
 
 ## Solution URL
 
-- [Frontend Mentor]()
-- [Netlify]()
+- [Frontend Mentor](https://www.frontendmentor.io/solutions/mobile-first-html5-css-vanillajs-EOlU3Ru7O)
+- [Netlify](https://ed-pricing-component.netlify.app/)
