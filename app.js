@@ -14,8 +14,8 @@ function initFuntion() {
 }
 
 function priceToggle() {
-  const pricesYear = document.querySelectorAll("#price-year");
-  const pricesMonth = document.querySelectorAll("#price-month");
+  const pricesYear = document.querySelectorAll(".price-year");
+  const pricesMonth = document.querySelectorAll(".price-month");
 
   pricesMonth.forEach((element) => element.classList.toggle("hidden"));
   pricesYear.forEach((element) => element.classList.toggle("hidden"));
